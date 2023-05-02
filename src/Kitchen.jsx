@@ -1,7 +1,7 @@
 import Oven from "./Oven"
 import Sink from "./Sink"
 
-function Kitchen(props){
+const  Kitchen = (props) => {
   return (
     <>
     <div>

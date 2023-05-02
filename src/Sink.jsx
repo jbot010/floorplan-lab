@@ -1,4 +1,4 @@
-function Sink(props){
+const Sink = (props) => {
   return (
     <>
     <div>

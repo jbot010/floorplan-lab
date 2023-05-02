@@ -1,4 +1,4 @@
-function Oven(props){
+const Oven = (props) => {
   return (
     <>
     <div>
