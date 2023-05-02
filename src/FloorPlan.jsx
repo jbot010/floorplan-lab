@@ -1,10 +1,11 @@
 import Kitchen from "./Kitchen"
+import LivingRoom from "./LivingRoom"
 
 function FloorPlan(props){
   return (
     <>
-      <h1>This is a FloorPlan</h1>
       <Kitchen />
+      <LivingRoom />
     </>
   )
 }
