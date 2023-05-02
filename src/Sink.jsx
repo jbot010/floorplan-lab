@@ -1,9 +1,9 @@
 const Sink = (props) => {
   return (
     <>
-    <div>
-      <h1>Sink</h1>
-    </div>
+      <div>
+        <h1>Sink</h1>
+      </div>
     </>
   )
 }

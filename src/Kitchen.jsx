@@ -4,11 +4,11 @@ import Sink from "./Sink"
 const  Kitchen = (props) => {
   return (
     <>
-    <div>
-      <h1>Kitchen</h1>
-      <Oven />
-      <Sink />
-    </div>
+      <div>
+        <h1>Kitchen</h1>
+          <Oven />
+          <Sink />
+      </div>
     </>
   )
 }
